@@ -3,5 +3,5 @@ install:
  - pip install matplotlib
  - pip install unittest2
 script: python diffusion.py
-script: python test.py
+script: python temp.py
 
