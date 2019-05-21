@@ -1,4 +1,5 @@
 language: python
 install:
+ - pip install matplotlib
  - pip install unittest2
 script: python diffusion.py
