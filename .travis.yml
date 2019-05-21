@@ -1,1 +1,4 @@
 language: python
+install:
+ - pip install unittest2
+script: python diffusion.py
