@@ -1,4 +1,4 @@
-https://travis-ci.org/Sumit-ai/device-simulation.svg?branch=master
+![build pass](https://travis-ci.org/Sumit-ai/device-simulation.svg?branch=master)
 # device-simulation: 
 ### This is my mid term class project
 #### I have used used python 3.5. Please run diffusion.py. The code and video can be found here:
