@@ -6,5 +6,5 @@
 ### 1. [Watch the video](https://www.youtube.com/watch?v=sBazd-r46OA&feature=youtu.be)
 ### 2. [code](http://sumit-ai.me/device/)
 
-
+### 3. [final project](https://nbviewer.jupyter.org/github/Sumit-ai/device-simulation/blob/master/final%20project.ipynb)
 
